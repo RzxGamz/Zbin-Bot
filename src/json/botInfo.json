@@ -1,0 +1,56 @@
+{
+  "botname": "Zbin-Wabot",
+  "ownerNumber": [
+    "6281910263857",
+    "6283128671683",
+    "60138062494",
+    "62895343001883",
+    "62895337035454"
+  ],
+  "prefix": [
+    "z"
+  ],
+  "ownername": "Galang/ZbinKw",
+  "unicode": {
+    "head": "⬣",
+    "list": "⬡",
+    "body": "┃",
+    "upper": "┏",
+    "down": "┗",
+    "line": "━",
+    "wings": [
+      "𓆩 ",
+      " 𓆪"
+    ],
+    "needed": [
+      "<",
+      ">"
+    ],
+    "optional": [
+      "(",
+      ")"
+    ]
+  },
+  "response": {
+    "owner": "Khusus Owner",
+    "admin": "Khusus Admin",
+    "group": "Khusus Groun",
+    "wait": "Tunggu Sebentar...",
+    "private": "Khusus Private",
+    "notUrl": "Link Invalid",
+    "media": "Pesan Harus Media",
+    "mentioned": "Tag Orang Bang",
+    "quoted": "Tag Pesan Bang",
+    "_media": "Kirim Pesan Media Atau Tag Pesan Yang Terdapat Media",
+    "Error": "Yah Error",
+    "fromMe": "Pesan Yang Di Balas Harus Dari Bot",
+    "botAdmin": "Bot Nya Admin Dong"
+  },
+  "session": {
+    "clientID": "xGGdHQD0PVYXluqz6tQsdg==",
+    "serverToken": "1@dkmH2+hgTNxRnU+O3u9UHtLoWk9LWDRp/Fw2jiTkiqc8WG8lRxtkSYuKyeExfZQd90TGNoDF8uLYlw==",
+    "clientToken": "LhZQoo/8ZoQhY4p1e+yt9QnRXdMj0DoCUsz1hnEzozM=",
+    "encKey": "SCHjKFS/EVEAcReUQr9bFy2+QCAIHykBS8HriBLRQUk=",
+    "macKey": "MPfcWLP0TOXdaZu7eznezxiI6kWDAJQX3wfXLfXz4yI="
+  }
+}
