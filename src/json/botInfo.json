@@ -1,16 +1,13 @@
 {
   "botname": "Zbin-Wabot",
   "ownerNumber": [
-    "6281910263857",
-    "6283128671683",
-    "60138062494",
-    "62895343001883",
-    "62895337035454"
+    "6288225066473",
+    "62882250664733"
   ],
   "prefix": [
-    "z"
+    "/"
   ],
-  "ownername": "Galang/ZbinKw",
+  "ownername": "Galang/Zbin",
   "unicode": {
     "head": "⬣",
     "list": "⬡",
